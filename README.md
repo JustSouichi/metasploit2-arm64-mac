@@ -31,6 +31,7 @@ Since UTM uses QEMU, we need to convert the `.vmdk` file into a compatible forma
    ```sh
    qemu-img convert -O qcow2 Metasploitable.vmdk Metasploitable.qcow2
    ```
+4. Remove from VM settings UEFI boot (disabled)
 
 ## Step 3: Create a UTM Virtual Machine
 
