@@ -8,6 +8,7 @@ This guide provides step-by-step instructions to download, convert, and run **Me
 - [UTM](https://mac.getutm.app/) installed on your Mac
 - [QEMU](https://www.qemu.org/) installed via Homebrew
 - Internet connection to download Metasploitable 2
+- Metasploitable 2 QCOW2 direct download link [https://drive.google.com/file/d/1n9EcTk6uKPWh92S8vUcbT0urf_3JI09s/view?usp=sharing](https://drive.google.com/file/d/1n9EcTk6uKPWh92S8vUcbT0urf_3JI09s/view?usp=sharing)
 
 ## Step 1: Download Metasploitable 2
 
