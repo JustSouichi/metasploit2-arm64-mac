@@ -11,7 +11,7 @@ This guide provides step-by-step instructions to download, convert, and run **Me
 
 ## Step 1: Download Metasploitable 2
 
-1. Visit [https://sourceforge.net/projects/metasploitable/files/Metasploitable2/](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
+1. Visit [https://sourceforge.net/projects/metasploitable/files/Metasploitable2/](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) or [https://www.vulnhub.com/entry/metasploitable-2,29/](https://www.vulnhub.com/entry/metasploitable-2,29/)
 2. Download the `Metasploitable2-Linux.zip` file.
 3. Extract the `.zip` file to get `Metasploitable.vmdk`.
 
